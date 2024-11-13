@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Complete project documentation",
+        "description": "Write the documentation for the new project module",
+        "status": "in-progress",
+        "dueDate": "2023-10-15"
+    },
+    {
+        "id": 2,
+        "title": "Code review",
+        "description": "Review the code submitted by the team",
+        "status": "pending",
+        "dueDate": "2023-10-10"
+    },
+    {
+        "id": 3,
+        "title": "Team meeting",
+        "description": "Discuss project milestones and next steps",
+        "status": "completed",
+        "dueDate": "2023-10-05"
+    },
+    {
+        "id": 4,
+        "title": "Update dependencies",
+        "description": "Update project dependencies to the latest versions",
+        "status": "in-progress",
+        "dueDate": "2023-10-20"
+    },
+    {
+        "id": 5,
+        "title": "Bug fixing",
+        "description": "Fix bugs reported by the QA team",
+        "status": "pending",
+        "dueDate": "2023-10-12"
+    }
+]
